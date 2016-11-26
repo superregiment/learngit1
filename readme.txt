@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 Creating a new branch id quick.
 Creating a new btanch is quick and simple.
+--no-ff
